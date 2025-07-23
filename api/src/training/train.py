@@ -18,11 +18,4 @@ def train_model(X_train, X_test, y_train, y_test):
   print(f"MAE: {mae}")
   print(f"R2: {r2}")
 
-  return {
-      "model_name": "HistGradientBoostingRegressor",
-      "model": model,
-      "rmse": rmse,
-      "mae": mae,
-      "r2": r2
-  }
-
+  return model
