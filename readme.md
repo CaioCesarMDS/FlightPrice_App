@@ -67,7 +67,6 @@
   <h2>📚 Principais Bibliotecas e Ferramentas Utilizadas</h2>
 
   <ul>
-    <li>Typescript</li>
     <li>React</li>
     <li>Vite</li>
     <li>Tailwind.css</li>
