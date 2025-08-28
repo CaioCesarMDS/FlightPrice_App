@@ -1,7 +1,5 @@
 <h1>✈️ FlightPrice - App</h1>
 
-<h2>Discentes: Caio Cesar, Rodrigo Sena e Vitor Otávio</h2>
-
 <br>
 
 <div>
@@ -79,3 +77,4 @@
     <li>Uvicorn</li>
   </ul>
 </div>
+
